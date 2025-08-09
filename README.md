@@ -11,6 +11,9 @@ A fun memory-based color matching game built with HTML, CSS, and JavaScript.
 5. Complete sequences to advance levels
 6. You have 3 lives - use them wisely!
 
+## Live Demo [https://shreedivya19.github.io/color-rush-game/]   
+   
+
 ## 🚀 Features
 
 - Progressive difficulty with longer sequences
